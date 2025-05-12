@@ -1,0 +1,36 @@
+## Fichiers liés à Visual Studio
+.vs/
+*.user
+*.suo
+
+## Build
+bin/
+obj/
+
+## Fichiers de logs et de tests
+*.log
+TestResults/
+*.vsp
+*.vspx
+*.coverage
+*.coveragexml
+
+## Configs temporaires
+*.tmp
+*.temp
+*.bak
+*.swp
+
+## Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Rider/VS Code
+.idea/
+.vscode/
+
+## Autres
+_ReSharper*/
+*.resharper
+*.DotSettings.user
