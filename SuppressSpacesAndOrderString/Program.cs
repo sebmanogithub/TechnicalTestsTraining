@@ -10,7 +10,7 @@
         }
         static string SuppressAndOrder(string str)
         {
-            var arrayString = str
+            char[] arrayString = str
                     .ToLower()
                     .Where(c => !char.IsWhiteSpace(c))
                     .OrderBy(c => c)

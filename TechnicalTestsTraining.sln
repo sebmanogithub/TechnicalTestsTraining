@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsStringHasAllUniqueCharact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{798C1DBD-8528-49CF-B6F3-01DC4C8D261A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreStringsPermutation", "AreStringsPermutation\AreStringsPermutation.csproj", "{7EC23B81-FD90-41BB-B6FB-22704400760B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsStringPalindrome", "AreStringsPermutation\IsStringPalindrome.csproj", "{7EC23B81-FD90-41BB-B6FB-22704400760B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppressSpacesAndOrderString", "SuppressSpacesAndOrderString\SuppressSpacesAndOrderString.csproj", "{3279F80D-25ED-43AE-8BE5-0DD22FD5B647}"
 EndProject
